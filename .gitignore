@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+.terragrunt-source-manifest
+.terragrunt-source-version
+.terragrunt-init-required
+.terraform/
+.DS_Store
+.terragrunt-cache
