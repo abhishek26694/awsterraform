@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "testBucket" {
-  bucket = "testbucket-abhishek1"
+  bucket = "testbucket-abhishek"
 } 
 
 resource "aws_s3_bucket_acl" "testBucket_acl" {
